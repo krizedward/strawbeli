@@ -1,6 +1,6 @@
 @extends('layouts.strawbeli')
 
-@sectio('content')
+@section('content')
 <div class="jumbotron text-center">
   <h1>Destination</h1>
   <p>Halaman Destination Website Strawbeli!</p> 
