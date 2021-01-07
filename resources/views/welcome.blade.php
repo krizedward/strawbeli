@@ -85,10 +85,10 @@
                 </div>
 
                 <div class="links">
-                    <a href="#">360 Gallery</a>
+                    <a href="/Gallery">360 Gallery</a>
                     <a href="/destination">Destination</a>
                     <a href="/cultivation">Cultivation</a>
-                    <a href="#">Shop</a>
+                    <a href="/Shop">Shop</a>
                     <a href="/forum">Forum</a>
                 </div>
             </div>

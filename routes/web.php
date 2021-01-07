@@ -25,6 +25,10 @@ Route::get('/forum', function () {
 
 Route::get('/destination','DestinationController@index');
 
+Route::get('/Gallery','GalleryController@index');
+
+Route::get('/Shop','ShopController@index');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');

@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class 360GalleryController extends Controller
+class GalleryController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -13,7 +13,7 @@ class 360GalleryController extends Controller
      */
     public function index()
     {
-        return view('360.Gallery.index');
+        return view('Gallery.index');
     }
 
     /**

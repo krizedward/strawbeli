@@ -2,8 +2,8 @@
 
 @section('content')
 <div class="jumbotron text-center">
-  <h1>Forum</h1>
-  <p>Halaman Forum Website Strawbeli!</p> 
+  <h1>Shop</h1>
+  <p>Halaman Shop Website Strawbeli!</p> 
 </div>
 
 <div class="container">
