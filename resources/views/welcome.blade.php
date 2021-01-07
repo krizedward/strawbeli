@@ -83,13 +83,13 @@
                 <div class="title m-b-md">
                     Strawbeli
                 </div>
-                
+
                 <div class="links">
                     <a href="#">360 Gallery</a>
-                    <a href="#">Destination</a>
-                    <a href="#">Cultivation</a>
+                    <a href="/destination">Destination</a>
+                    <a href="/cultivation">Cultivation</a>
                     <a href="#">Shop</a>
-                    <a href="#">Forum</a>
+                    <a href="/forum">Forum</a>
                 </div>
             </div>
         </div>
